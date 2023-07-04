@@ -69,12 +69,86 @@ Leveraging BeautifulSoup and Python to get that data from the Web, analyzing bus
 - Description: This repository contains the implementation of various recommendation systems using Python and machine learning techniques. The goal of these systems is to provide personalized recommendations to users based on their preferences and historical data.
 
 The implemented recommendation systems include:
-- • Classification-based Collaborative Filtering Systems - Logistic Regression
-- • Content-Based Recommenders - Nearest Neighbors Algorithm
-- • Correlation-Based Recommenders
-- • Model-based Collaborative Filtering Systems with SVD Matrix Factorization
-- • Popularity-Based Recommenders
+- Classification-based Collaborative Filtering Systems - Logistic Regression
+- Content-Based Recommenders - Nearest Neighbors Algorithm
+- Correlation-Based Recommenders
+- Model-based Collaborative Filtering Systems with SVD Matrix Factorization
+- Popularity-Based Recommenders
 - Repository: [GitHub](https://github.com/dthatprince/Building-a-Recommendation-System-with-Python-Machine-Learning-and-AI)
+
+
+### Automation with Python
+
+Using Python for Automating:
+- Reading and writing files
+- Organizing directories
+- Web scraping with Beautiful Soup
+- Automating web browsing with Selenium
+- Automating with APIs
+- Creating API requests
+- Linking API calls
+- Repository: [GitHub](https://github.com/dthatprince/Automation-with-Python)
+
+
+### Human Resource Data Analysis & Churn Prediction
+
+- Description: An analysis of employee data in the dataset "HR_comma_sep.csv" to find out what contributes to employees leaving the company.
+- Repository: [GitHub](https://github.com/dthatprince/Human-Resource-Data-Prediction-Analysis)
+
+
+### Data Analysis of Uber Trips
+
+- Repository: [GitHub](https://github.com/dthatprince/Data-Analysis-of-Uber-Data)
+
+
+### University Degree - Gender Gap Analysis 
+
+- Description: Analysis of the Gender Gap in University Degrees (STEM) 
+- Repository: [GitHub](https://github.com/dthatprince/gendergap)
+
+
+### House Price Prediction Using TensorFlow - Deep Learning
+- Repository: [GitHub](https://github.com/dthatprince/House-Price-Prediction-Using-TensorFlow)
+
+
+### Customer Segmentation using KMeans - Python
+
+- Repository: [GitHub](https://github.com/dthatprince/KMeans_Clustering)
+
+
+### NLP Project - Chatbot Using NLTK
+
+- Description: Built a Chatbot to answer questions concerning global warming. (Python & NLTK) 
+- Repository: [GitHub](https://github.com/dthatprince/ChatbotNLTK)
+
+
+### Netflix Movies & TV Shows Analysis
+
+- Description: Performing exploratory data analysis(EDA) to confirm if the average duration of movies has been declining.
+- Repository: [DataCamp WorkSpace](https://app.datacamp.com/workspace/w/9d2c2838-45ac-4b75-a4ff-695deb9c7bdc)
+
+
+### Google Play Store App and Reviews - Data Analysis and Visualization
+
+- Description: Leveraging Personalized Offers and Data Analysis for an Effective Marketing Strategy.
+- Repository: [GitHub](https://github.com/dthatprince/Google-Playstore-Data-Analysis-Visualization)
+- Repository: [DataCamp WorkSpace](https://app.datacamp.com/workspace/w/2b7e3282-06a6-456b-99b5-b03b508a8c9d)
+
+
+### Analyzing the Decline of Movie Durations on Netflix (2011-2020)
+
+- Description: In this project, I aimed to explore the trend of declining movie durations on Netflix from 2011 to 2020. Using a CSV file containing Netflix data and Python's pandas library, I created a DataFrame and analyzed the average movie durations over the years. I also visualized the data using Matplotlib and Seaborn libraries to better understand the trend and its possible causes. By the end of the project, I had gained insights into the changing landscape of movie durations on Netflix and developed my data manipulation and visualization skills using Python.
+- Repository: [DataCamp WorkSpace](https://app.datacamp.com/workspace/w/9d2c2838-45ac-4b75-a4ff-695deb9c7bdc)
+
+
+### Analyzing the Scala Programming Language Repository
+
+I analyzed the development history of the Scala programming language by reading, cleaning, and visualizing data from its real-world project repository. 
+
+The dataset included information about pull requests and the files that were modified by each request, which were previously mined and extracted from GitHub. I used Python to read, clean, and visualize the data to identify the individuals who had the most influence on Scala's development and determine the language experts. 
+
+I also explored trends in the development of Scala over time to gain insights into its evolution as an open-source project. By the end of the project, I had developed my data manipulation, visualization, and analysis skills using Python and gained a better understanding of the development of the Scala programming language.
+- Repository: [GitHub](https://github.com/dthatprince/Data-Analysis-and-Personalized-Offers-for-an-Effective-Marketing-Strategy)
 
 
 ### Data Analysis and Personalized Offers for an Effective Marketing Strategy (Completing Soon - this July 2023)
