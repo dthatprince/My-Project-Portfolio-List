@@ -7,9 +7,7 @@ My name is Prince Nwaekwu, I am a passionate and dedicated data scientist with a
 
 Throughout my career, I have gained extensive experience in data wrangling, exploratory data analysis, statistical modeling, and predictive analytics. I enjoy working with large datasets, identifying patterns, and developing innovative solutions to extract valuable information that drives informed decision-making.
 
-As a firm believer in the power of data, I am committed to leveraging cutting-edge tools and techniques to extract meaningful insights and create data-driven solutions that have a real impact. I am proficient in programming languages such as Python and R, and I have hands-on experience with popular libraries and frameworks, including pandas, NumPy, scikit-learn, and TensorFlow.
-
-In addition to my technical skills, I possess strong communication and storytelling abilities, allowing me to effectively convey complex findings to both technical and non-technical stakeholders. I thrive in collaborative environments, working closely with cross-functional teams to translate business objectives into data-driven strategies.
+In addition to my technical skills, I possess strong communication and storytelling abilities, allowing me to effectively convey complex findings to both technical and non-technical stakeholders. I thrive in collaborative environments, working closely with interdisciplinary teams to translate business objectives into data-driven strategies.
 
 Continuous learning is a core value of mine, and I actively stay up-to-date with the latest advancements in the field of data science. I am always seeking opportunities to expand my knowledge and apply new methodologies to solve real-world problems.
 
