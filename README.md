@@ -10,8 +10,10 @@ Welcome to my portfolio! This repository showcases my projects and achievements.
 - Repository: [GitHub](https://github.com/dthatprince/Data-Analysis-and-Personalized-Offers-for-an-Effective-Marketing-Strategy)
 
 
+
 ### Pricing under Uncertainty - Implied Volatility Model - Risk-Free Interest Rates and Back-Testing (Completing Soon - this July 2023)
 - Link is Unavailable right now.
+
 
 
 ### Data Analysis and Personalized Offers for an Effective Marketing Strategy (Completing Soon - this July 2023)
@@ -20,10 +22,12 @@ Welcome to my portfolio! This repository showcases my projects and achievements.
 - Repository: [GitHub](https://github.com/dthatprince/Data-Analysis-and-Personalized-Offers-for-an-Effective-Marketing-Strategy)
 
 
+
 ### Forecasting Views for a Medium article using FB Prophet - Time Series
 
 - Description: Forecasting Views for a Medium article using FB Prophet.
 - Repository: [GitHub](https://github.com/dthatprince/Forcasting-Article-Views-FB-prophet)
+
 
 
 ### Analyzing Patient's Medical Appointments
@@ -32,22 +36,26 @@ Welcome to my portfolio! This repository showcases my projects and achievements.
 - Repository: [GitHub](https://github.com/dthatprince/Analyzing-Medical-Appointments)
 
 
+
 ### Machine Learning Models Analysis using Yellowbrick Visualizers and API
 
 - Description: This is my API documentation for Yellowbrick Visualizers and API! It contains various production-ready visualizers along with code examples of how to use them.
 - Repository: [GitHub](https://github.com/dthatprince/Machine-Learning-Models-Analysis-using-Yellowbrick)
 
 
+
 ### Player Retention A/B Testing for Mobile Game
 
-- Description: he goal of this project is to conduct an A/B testing and player retention analysis on the Cookie Cats game dataset to investigate the impact of certain factors on player retention in a game. Player retention is a crucial metric in the gaming industry, as it directly correlates with the success and growth of a game. By understanding the factors that influence player retention, game developers can make informed decisions to optimize player engagement and enhance the overall gaming experience.
+- Description: The goal of this project is to conduct an A/B testing and player retention analysis on the Cookie Cats game dataset to investigate the impact of certain factors on player retention in a game. Player retention is a crucial metric in the gaming industry, as it directly correlates with the success and growth of a game. By understanding the factors that influence player retention, game developers can make informed decisions to optimize player engagement and enhance the overall gaming experience.
 - Repository: [GitHub](https://github.com/dthatprince/Player-Retention-A-B-Testing)
+
 
 
 ### Text Mining - Text Analysis, Classification, and Clustering (R & Python)
 
 - Description: This project focuses on applying text analysis, classification, and clustering methods to a real-world corpus using R and Python. The goal is to clean the data, perform statistical analysis, create a classification model, and apply a clustering method.
 - Repository: [GitHub](https://github.com/dthatprince/Text-Mining-on-Reuters-Dataset)
+
 
 
 ### Yelp Business Reviews Sentiment Analysis
@@ -58,10 +66,12 @@ Leveraging BeautifulSoup and Python to get that data from the Web, analyzing bus
 - Repository: [GitHub](https://github.com/dthatprince/Yelp-Business-Reviews-Sentiment-Analysis)
 
 
+
 ### Global Terrorism Data Analysis and Prediction, Model Deployment using Streamlit
 
 - Model Deployment: [GitHub](https://teamcolabpremierproject.streamlit.app/)
 - Repository: [GitHub](https://github.com/dthatprince/Global-Terrorism-Data-Analysis-and-Prediction)
+
 
 
 ### Recommendation System with Python, Machine Learning and AI
@@ -77,6 +87,7 @@ The implemented recommendation systems include:
 - Repository: [GitHub](https://github.com/dthatprince/Building-a-Recommendation-System-with-Python-Machine-Learning-and-AI)
 
 
+
 ### Automation with Python
 
 Using Python for Automating:
@@ -90,15 +101,18 @@ Using Python for Automating:
 - Repository: [GitHub](https://github.com/dthatprince/Automation-with-Python)
 
 
+
 ### Human Resource Data Analysis & Churn Prediction
 
 - Description: An analysis of employee data in the dataset "HR_comma_sep.csv" to find out what contributes to employees leaving the company.
 - Repository: [GitHub](https://github.com/dthatprince/Human-Resource-Data-Prediction-Analysis)
 
 
+
 ### Data Analysis of Uber Trips
 
 - Repository: [GitHub](https://github.com/dthatprince/Data-Analysis-of-Uber-Data)
+
 
 
 ### University Degree - Gender Gap Analysis 
@@ -107,13 +121,16 @@ Using Python for Automating:
 - Repository: [GitHub](https://github.com/dthatprince/gendergap)
 
 
+
 ### House Price Prediction Using TensorFlow - Deep Learning
 - Repository: [GitHub](https://github.com/dthatprince/House-Price-Prediction-Using-TensorFlow)
+
 
 
 ### Customer Segmentation using KMeans - Python
 
 - Repository: [GitHub](https://github.com/dthatprince/KMeans_Clustering)
+
 
 
 ### NLP Project - Chatbot Using NLTK
@@ -122,23 +139,27 @@ Using Python for Automating:
 - Repository: [GitHub](https://github.com/dthatprince/ChatbotNLTK)
 
 
+
 ### Netflix Movies & TV Shows Analysis
 
 - Description: Performing exploratory data analysis(EDA) to confirm if the average duration of movies has been declining.
-- Repository: [DataCamp WorkSpace](https://app.datacamp.com/workspace/w/9d2c2838-45ac-4b75-a4ff-695deb9c7bdc)
+- Repository: [My DataCamp WorkSpace](https://app.datacamp.com/workspace/w/9d2c2838-45ac-4b75-a4ff-695deb9c7bdc)
+
 
 
 ### Google Play Store App and Reviews - Data Analysis and Visualization
 
 - Description: Leveraging Personalized Offers and Data Analysis for an Effective Marketing Strategy.
 - Repository: [GitHub](https://github.com/dthatprince/Google-Playstore-Data-Analysis-Visualization)
-- Repository: [DataCamp WorkSpace](https://app.datacamp.com/workspace/w/2b7e3282-06a6-456b-99b5-b03b508a8c9d)
+- Repository: [My DataCamp WorkSpace](https://app.datacamp.com/workspace/w/2b7e3282-06a6-456b-99b5-b03b508a8c9d)
+
 
 
 ### Analyzing the Decline of Movie Durations on Netflix (2011-2020)
 
 - Description: In this project, I aimed to explore the trend of declining movie durations on Netflix from 2011 to 2020. Using a CSV file containing Netflix data and Python's pandas library, I created a DataFrame and analyzed the average movie durations over the years. I also visualized the data using Matplotlib and Seaborn libraries to better understand the trend and its possible causes. By the end of the project, I had gained insights into the changing landscape of movie durations on Netflix and developed my data manipulation and visualization skills using Python.
-- Repository: [DataCamp WorkSpace](https://app.datacamp.com/workspace/w/9d2c2838-45ac-4b75-a4ff-695deb9c7bdc)
+- Repository: [My DataCamp WorkSpace](https://app.datacamp.com/workspace/w/9d2c2838-45ac-4b75-a4ff-695deb9c7bdc)
+
 
 
 ### Analyzing the Scala Programming Language Repository
@@ -148,18 +169,6 @@ I analyzed the development history of the Scala programming language by reading,
 The dataset included information about pull requests and the files that were modified by each request, which were previously mined and extracted from GitHub. I used Python to read, clean, and visualize the data to identify the individuals who had the most influence on Scala's development and determine the language experts. 
 
 I also explored trends in the development of Scala over time to gain insights into its evolution as an open-source project. By the end of the project, I had developed my data manipulation, visualization, and analysis skills using Python and gained a better understanding of the development of the Scala programming language.
-- Repository: [GitHub](https://github.com/dthatprince/Data-Analysis-and-Personalized-Offers-for-an-Effective-Marketing-Strategy)
-
-
-### Data Analysis and Personalized Offers for an Effective Marketing Strategy (Completing Soon - this July 2023)
-
-- Description: Leveraging Personalized Offers and Data Analysis for an Effective Marketing Strategy.
-- Repository: [GitHub](https://github.com/dthatprince/Data-Analysis-and-Personalized-Offers-for-an-Effective-Marketing-Strategy)
-
-
-### Data Analysis and Personalized Offers for an Effective Marketing Strategy (Completing Soon - this July 2023)
-
-- Description: Leveraging Personalized Offers and Data Analysis for an Effective Marketing Strategy.
 - Repository: [GitHub](https://github.com/dthatprince/Data-Analysis-and-Personalized-Offers-for-an-Effective-Marketing-Strategy)
 
 
