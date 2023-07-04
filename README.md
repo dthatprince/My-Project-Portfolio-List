@@ -3,7 +3,7 @@
 Welcome to my portfolio! This repository showcases my projects and fun stuffs.
 ## About Me
 
-My name is Prince Nwaekwu, I am a passionate and dedicated data scientist with a strong background in Big data analytics and Machine Learning. With a keen interest in uncovering insights from complex datasets, I thrive on solving challenging problems and turning raw data into actionable insights.
+My name is Prince Nwaekwu, I am a passionate and dedicated data scientist with a strong background in Big data analytics and Machine Learning. With a keen interest in uncovering insights from complex datasets, I thrive on solving challenging problems and turning raw data into actionable insights and BI solutions.
 
 Throughout my career, I have gained extensive experience in data wrangling, exploratory data analysis, statistical modeling, and predictive analytics. I enjoy working with large datasets, identifying patterns, and developing innovative solutions to extract valuable information that drives informed decision-making.
 
