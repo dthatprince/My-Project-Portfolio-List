@@ -44,6 +44,11 @@ Thank you for taking the time to learn more about me and my work!
 - Repository: [GitHub](https://github.com/dthatprince/Data-Analysis-and-Personalized-Offers-for-an-Effective-Marketing-Strategy)
 
 
+### Credit Risk Modeling and Credit Scoring For Financial Lending
+- Description: This project offers a comprehensive work on building state-of-the-art credit scoring models tailored specifically for financial lending in the Fintech industry.
+Focused on credit risk modeling and understanding the role of data science in the lending industry.
+- Repository: [GitHub](https://github.com/dthatprince/credit-risk-modeling)
+
 
 ### Forecasting Views for a Medium article using FB Prophet - Time Series
 
