@@ -26,22 +26,16 @@ Thank you for taking the time to learn more about me and my work!
 
 # Projects
 
-### Data Analysis and Personalized Offers for an Effective Marketing Strategy (Completing Soon - this July 2023)
+### Data Analysis and Personalized Offers for an Effective Marketing Strategy (Completing Soon - this August 2023)
 
 - Description: Leveraging Personalized Offers and Data Analysis for an Effective Marketing Strategy.
 - Repository: [GitHub](https://github.com/dthatprince/Data-Analysis-and-Personalized-Offers-for-an-Effective-Marketing-Strategy)
 
 
 
-### Pricing under Uncertainty - Implied Volatility Model - Risk-Free Interest Rates and Back-Testing (Completing Soon - this July 2023)
+### Pricing under Uncertainty - Implied Volatility Model - Risk-Free Interest Rates and Back-Testing (Completing Soon - this August 2023)
 - Link is Unavailable right now.
 
-
-
-### Data Analysis and Personalized Offers for an Effective Marketing Strategy (Completing Soon - this July 2023)
-
-- Description: Leveraging Personalized Offers and Data Analysis for an Effective Marketing Strategy.
-- Repository: [GitHub](https://github.com/dthatprince/Data-Analysis-and-Personalized-Offers-for-an-Effective-Marketing-Strategy)
 
 
 ### Credit Risk Modeling and Credit Scoring For Financial Lending
