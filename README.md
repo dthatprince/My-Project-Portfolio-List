@@ -190,7 +190,7 @@ I analyzed the development history of the Scala programming language by reading,
 The dataset included information about pull requests and the files that were modified by each request, which were previously mined and extracted from GitHub. I used Python to read, clean, and visualize the data to identify the individuals who had the most influence on Scala's development and determine the language experts. 
 
 I also explored trends in the development of Scala over time to gain insights into its evolution as an open-source project. By the end of the project, I had developed my data manipulation, visualization, and analysis skills using Python and gained a better understanding of the development of the Scala programming language.
-- Repository: [My DataCamp WorkSpace](https://github.com/dthatprince/Data-Analysis-and-Personalized-Offers-for-an-Effective-Marketing-Strategy)
+- Repository: [My DataCamp WorkSpace](https://app.datacamp.com/workspace/w/8496f0e0-c526-447c-90af-d543b1afa2e5)
 
 
 
