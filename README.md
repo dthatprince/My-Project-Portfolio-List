@@ -21,6 +21,7 @@ Thank you for taking the time to learn more about me and my work!
 
 - Email: nwaekwuprince@gmail.com
 - LinkedIn: [Profile](https://www.linkedin.com/in/prince-nwaekwu/)
+- Tableau: [Dashboards](https://public.tableau.com/app/profile/prince.nwaekwu/vizzes)
 
 ---
 
