@@ -66,7 +66,7 @@ Focused on credit risk modeling and understanding the role of data science in th
 
 
 
-### Analyzing Streaming Service Content with SQLAnalyzing Streaming Service Content with SQL
+### Analyzing Streaming Service Content with SQL
 May 2022 - May 2022May 2022 - May 2022
 Exploring the dynamic world of streaming service content analysis using SQL. The focus was on major players in the streaming industry: Netflix, Amazon, Hulu and Disney+.
 
