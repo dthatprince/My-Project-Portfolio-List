@@ -66,6 +66,14 @@ Focused on credit risk modeling and understanding the role of data science in th
 
 
 
+### Analyzing Streaming Service Content with SQLAnalyzing Streaming Service Content with SQL
+May 2022 - May 2022May 2022 - May 2022
+Exploring the dynamic world of streaming service content analysis using SQL. The focus was on major players in the streaming industry: Netflix, Amazon, Hulu and Disney+.
+
+Project link: [DataCamp](https://www.datacamp.com/datalab/w/106cd54b-a2c4-4bd0-8b4b-3fc43c917404/edit)
+
+
+
 ### Player Retention A/B Testing for Mobile Game
 
 - Description: The goal of this project is to conduct an A/B testing and player retention analysis on the Cookie Cats game dataset to investigate the impact of certain factors on player retention in a game. Player retention is a crucial metric in the gaming industry, as it directly correlates with the success and growth of a game. By understanding the factors that influence player retention, game developers can make informed decisions to optimize player engagement and enhance the overall gaming experience.
