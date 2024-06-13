@@ -179,7 +179,7 @@ Using Python for Automating:
 
 ### Google Play Store App and Reviews - Data Analysis and Visualization
 
-- Description: Leveraging Personalized Offers and Data Analysis for an Effective Marketing Strategy.
+- Description: Analysis & Visualization of Google Playstore Data. The Play Store Apps Data has the potential to drive App-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market.
 - Repository: [GitHub](https://github.com/dthatprince/Google-Playstore-Data-Analysis-Visualization)
 - Repository: [My DataCamp WorkSpace](https://app.datacamp.com/workspace/w/2b7e3282-06a6-456b-99b5-b03b508a8c9d)
 
