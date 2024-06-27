@@ -27,6 +27,19 @@ Thank you for taking the time to learn more about me and my work!
 
 # Projects
 
+### AI Blog Post Generator using LLAMA2
+
+- Description: This project is an AI-powered blog post generator using the LLaMA-2 model. The application is built with Streamlit and leverages the LLaMA-2 model to generate blog posts based on user inputs.
+
+Features:
+- Generate blog posts tailored to different job profiles (Researchers, Data Scientists, AI Enthusiasts).
+- Customize the length of the blog post.
+- Easy-to-use web interface built with Streamlit
+
+- Repository: [GitHub](https://github.com/dthatprince/genblog-llama2)
+
+
+
 ### Data Analysis and Personalized Offers for an Effective Marketing Strategy (Completing Soon - this August 2024)
 
 - Description: Leveraging Personalized Offers and Data Analysis for an Effective Marketing Strategy.
