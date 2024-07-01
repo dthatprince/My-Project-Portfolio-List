@@ -27,6 +27,11 @@ Thank you for taking the time to learn more about me and my work!
 
 # Projects
 
+### GPT-2 Text Generator App
+- Description: This project is a text generator application built using GPT-2, Gradio, and TensorFlow. The app takes a user-provided sentence as input and generates a complete paragraph based on that sentence.
+
+- Repository: [GitHub](https://github.com/dthatprince/text-generator-tf/)
+
 ### AI Blog Post Generator using LLAMA2
 
 - Description: This project is an AI-powered blog post generator using the LLaMA-2 model. The application is built with Streamlit and leverages the LLaMA-2 model to generate blog posts based on user inputs.
