@@ -27,7 +27,7 @@ Thank you for taking the time to learn more about me and my work!
 
 # Projects
 
-### Euro 2024 Elections: LSTM Text Prediction Model
+### Euro 2024 Parliament Elections: LSTM Text Prediction Model
 - Description: This project utilizes an LSTM (Long Short-Term Memory) model to perform text completion and prediction. The training data is sourced from the Wikipedia page about the 2024 European Parliament elections. The model is designed to predict the next word in a given sequence of text, demonstrating the capabilities of LSTM networks in handling sequential data.
 
 - Repository: [GitHub](https://github.com/dthatprince/euro2024-lstm)
