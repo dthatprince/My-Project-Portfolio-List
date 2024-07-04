@@ -27,11 +27,15 @@ Thank you for taking the time to learn more about me and my work!
 
 # Projects
 
+### Image Object Detection using ImageAI
+- Description: Image Object Detection project using ImageAI with RetinaNet, YOLOv3, or TinyYOLOv3 models on GitHub.
+
+- Repository: [GitHub](link: https://github.com/dthatprince/imageai-object-detection/)
+
+
 ### PySpark ML Pipeline for Bank Term Deposit Subscription Prediction
 
-A PySpark project implementing a machine learning pipeline for predicting term deposit subscriptions using the Bank Term Deposit Subscription Dataset. 
-
-Using certain factors we need to classify whether or not a customer subscribes to the term deposit upon getting a call from a bank’s representative.
+- Description: A PySpark project implementing a machine learning pipeline for predicting term deposit subscriptions using the Bank Term Deposit Subscription Dataset. Using certain factors we need to classify whether or not a customer subscribes to the term deposit upon getting a call from a bank’s representative.
 
 - Repository: [GitHub](https://github.com/dthatprince/bank-deposit-spark-ml-pipeline)
 
