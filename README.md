@@ -30,7 +30,7 @@ Thank you for taking the time to learn more about me and my work!
 ### Image Object Detection using ImageAI
 - Description: Image Object Detection project using ImageAI with RetinaNet, YOLOv3, or TinyYOLOv3 models on GitHub.
 
-- Repository: [GitHub](link: https://github.com/dthatprince/imageai-object-detection/)
+- Repository: [GitHub](https://github.com/dthatprince/imageai-object-detection/)
 
 
 ### PySpark ML Pipeline for Bank Term Deposit Subscription Prediction
