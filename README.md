@@ -27,6 +27,15 @@ Thank you for taking the time to learn more about me and my work!
 
 # Projects
 
+### PySpark ML Pipeline for Bank Term Deposit Subscription Prediction
+
+A PySpark project implementing a machine learning pipeline for predicting term deposit subscriptions using the Bank Term Deposit Subscription Dataset. 
+
+Using certain factors we need to classify whether or not a customer subscribes to the term deposit upon getting a call from a bank’s representative.
+
+- Repository: [GitHub](https://github.com/dthatprince/bank-deposit-spark-ml-pipeline)
+
+
 ### Euro 2024 Parliament Elections: LSTM Text Prediction Model
 - Description: This project utilizes an LSTM (Long Short-Term Memory) model to perform text completion and prediction. The training data is sourced from the Wikipedia page about the 2024 European Parliament elections. The model is designed to predict the next word in a given sequence of text, demonstrating the capabilities of LSTM networks in handling sequential data.
 
