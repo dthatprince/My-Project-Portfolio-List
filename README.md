@@ -36,6 +36,11 @@ Repository: [Github Link](https://github.com/dthatprince/llm-anonymizer)
 
 - Repository: [GitHub](https://github.com/dthatprince/imageai-object-detection/)
 
+### Anomaly Detection in Time Series
+This project explores different methods for anomaly detection in time series data, specifically focusing on CPU utilization data from an AWS EC2 instance. The following techniques are implemented and compared:
+Mean Absolute Deviation (MAD), Isolation Forest & Local Outlier Factor (LOF)
+- Repository: [GitHub](https://github.com/dthatprince/timeseries-anomaly-detection)
+  
 
 ### PySpark ML Pipeline for Bank Term Deposit Subscription Prediction
 
