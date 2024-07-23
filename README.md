@@ -1,4 +1,5 @@
-# My Portfolio
+# My Portfolio - Prince Nwaewkwu
+Github profile : [https://github.com/dthatprince](https://github.com/dthatprince)
 
 Welcome to my portfolio! This repository showcases my projects and fun stuffs.
 ## About Me
