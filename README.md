@@ -28,6 +28,14 @@ Thank you for taking the time to learn more about me and my work!
 
 # Projects
 
+### Multivariate Anomaly Detection Using the UCI Thyroid Disease Data Set
+- This project demonstrates a comprehensive approach to multivariate anomaly detection using Python within a Jupyter Notebook. It guides users through loading, preprocessing, training, and evaluating models on the UCI Thyroid Disease dataset.
+Repository: [Github Link](https://github.com/dthatprince/multivariate_anomaly_detection)
+
+### Univariate Anomaly Detection (Machine Learning Methods)
+- This project implements univariate anomaly detection using machine learning techniques in Python, within a Jupyter Notebook environment. It focuses on detecting unusual patterns or outliers in single-variable datasets using advanced machine learning methods.
+Repository: [Github Link](https://github.com/dthatprince/univariate_anomaly_detection)
+
 ### Data anonymization for LLMs with OpenAI, LangChain and Microsoft Presidio
 - Developing and Exploring Use cases for Reversible Anonymization, Multi-language Anonymization, Question and Answering with privacy protection.
 Repository: [Github Link](https://github.com/dthatprince/llm-anonymizer)
